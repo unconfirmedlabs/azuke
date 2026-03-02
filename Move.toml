@@ -1,5 +1,5 @@
 [package]
-name = "stake"
+name = "azuke"
 edition = "2024"
 license = "MIT"
 authors = ["Unconfirmed Labs, LLC (os@unconfirmed.com)"]
